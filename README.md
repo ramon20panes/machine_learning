@@ -121,7 +121,7 @@ Este proyecto implementa dos modelos de análisis avanzado usando como ejemplo d
 
     #Predecir modelo de juego óptimo contra un rival específico
 
-    rival = "Real Madrid"
+    rival = "Atlético Teresiano"
 
     modelo_recomendado = predecir_modelo_juego(rival, df_partidos, df_equipos)
 
