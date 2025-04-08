@@ -22,24 +22,39 @@ Este proyecto implementa dos modelos de análisis avanzado usando como ejemplo d
 
 ## Bibliotecas requeridas
 -pandas==1.5.3
+
 -numpy==1.23.5
+
 -scikit-learn==1.2.2
+
 -matplotlib==3.7.1
+
 -seaborn==0.12.2
 
 ## Estructura del Proyecto
 
 ├── assets/
+
 │   ├── players/          # Imágenes de jugadores
+
 │   └── escudos/          # Escudos de equipos
+
 ├── data/
+
 │   ├── general.csv       # Estadísticas de jugadores de campo
+
 │   ├── porteros.csv      # Estadísticas de porteros
+
 │   ├── mercado.csv       # Valores de mercado y contratos
+
 │   ├── atletico.csv      # Plantilla del Atlético de Madrid
+
 │   └── equipos.csv       # Información de equipos
+
 ├── modelo_juego.ipynb       # Modelo 1: Predicción de modelo de juego (SVM)
+
 ├── similar_players.ipynb    # Modelo 2: Recomendación de jugadores similares
+
 └── README.md
 
 # Modelo 1: Predicción de Modelo de Juego
@@ -69,15 +84,15 @@ Este proyecto implementa dos modelos de análisis avanzado usando como ejemplo d
 
 ### 2. Pipeline de Análisis:
 
--Limpieza de Datos: Normalización de nombres, manejo de valores faltantes y estandarización;
+- Limpieza de Datos: Normalización de nombres, manejo de valores faltantes y estandarización;
 
--Ingeniería de Características: Creación de métricas específicas por posición;
+- Ingeniería de Características: Creación de métricas específicas por posición;
 
--Clustering con K-Means: Agrupación de jugadores en perfiles similares;
+- Clustering con K-Means: Agrupación de jugadores en perfiles similares;
 
--Búsqueda de Similitud con KNN: Identificación de jugadores más similares a cada referencia;
+- Búsqueda de Similitud con KNN: Identificación de jugadores más similares a cada referencia;
 
--Visualización de Resultados: Representación gráfica con comparativas estadísticas.
+- Visualización de Resultados: Representación gráfica con comparativas estadísticas.
 
 ### 3. Métricas Generadas por Posición:
 
@@ -103,31 +118,49 @@ Este proyecto implementa dos modelos de análisis avanzado usando como ejemplo d
 ## Modelo 1: Predicción de Modelo de Juego
 
 ''' from modelo_juego import predecir_modelo_juego_
+
     #Predecir modelo de juego óptimo contra un rival específico
+
     rival = "Real Madrid"
+
     modelo_recomendado = predecir_modelo_juego(rival, df_partidos, df_equipos)
+
     print(f"Modelo de juego recomendado contra {rival}: {modelo_recomendado}")'''
 
 ## Modelo 2: Recomendación de Jugadores Similares
 
 '''from similar_players import ejecutar_analisis_completo, visualizar_jugador_similares
+
     # Ejecutar análisis completo
+
     resultados = ejecutar_analisis_completo()'''
 
 '''# Buscar jugadores similares a un específico
+
     from similar_players import entrenar_modelo_knn
+
     recomendaciones = entrenar_modelo_knn(
+
         "Griezmann", 
+
         resultados["resultado_clusters"], 
+
         df_atletico, 
+
         df_general, 
+
         df_porteros, 
+
         df_mercado, 
+
         df_equipos,
+
         top_n=5
+
     )'''
 
 ''' # Visualización personalizada
+
     visualizar_jugador_similares("Griezmann", recomendaciones, top_n=5)'''
 
 ## Limitaciones
