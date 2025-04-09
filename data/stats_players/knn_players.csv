@@ -1,6 +1,7 @@
 dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 1,Thibaut Courtois,"2,00m",Izquierdo,30/06/2026,"25,00 mill. €",real-madrid
 13,Andriy Lunin,"1,91m",Derecho,30/06/2030,"20,00 mill. €",real-madrid
+26,Fran González,"1,99m",Derecho,30/06/2026,400 mil €,real-madrid
 3,Éder Militão,"1,86m",Derecho,30/06/2028,"40,00 mill. €",real-madrid
 35,Raúl Asencio,"1,84m",Derecho,30/06/2026,"30,00 mill. €",real-madrid
 22,Antonio Rüdiger,"1,90m",Derecho,30/06/2026,"24,00 mill. €",real-madrid
@@ -116,6 +117,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 28,Pablo Marín,"1,78m",Derecho,30/06/2028,"3,00 mill. €",real-sociedad
 7,Ander Barrenetxea,"1,75m",Derecho,30/06/2030,"18,00 mill. €",real-sociedad
 11,Sheraldo Becker,"1,80m",Derecho,30/06/2026,"4,00 mill. €",real-sociedad
+40,Arkaitz Mariezkurrena,-,,30/06/2029,500 mil €,real-sociedad
 14,Takefusa Kubo,"1,73m",Izquierdo,30/06/2029,"40,00 mill. €",real-sociedad
 17,Sergio Gómez,"1,71m",Izquierdo,30/06/2030,"20,00 mill. €",real-sociedad
 10,Mikel Oyarzabal,"1,81m",Izquierdo,30/06/2028,"30,00 mill. €",real-sociedad
@@ -392,7 +394,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 10,Bertuğ Yıldırım,"1,91m",Derecho,30/06/2025,"2,50 mill. €",fc-getafe
 18,Álvaro Rodríguez,"1,93m",Izquierdo,30/06/2025,"2,50 mill. €",fc-getafe
 1,Antonio Sivera,"1,85m",Derecho,30/06/2027,"6,00 mill. €",deportivo-alaves
-13,Jesús Owono,"1,81m",Ambidiestro,30/06/2026,"1,00 mill. €",deportivo-alaves
+13,Jesús Owono,"1,86m",Ambidiestro,30/06/2026,"1,00 mill. €",deportivo-alaves
 31,Adrián Rodríguez,"1,95m",Derecho,30/06/2027,100 mil €,deportivo-alaves
 5,Abdel Abqar,"1,88m",Derecho,30/06/2025,"7,50 mill. €",deportivo-alaves
 12,Santiago Mouriño,"1,86m",Derecho,30/06/2029,"2,00 mill. €",deportivo-alaves
@@ -510,7 +512,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 17,Kevin De Bruyne,"1,81m",Derecho,30/06/2025,"27,00 mill. €",manchester-city
 30,Claudio Echeverri,"1,70m",Derecho,30/06/2028,"18,00 mill. €",manchester-city
 87,James McAtee,"1,80m",Izquierdo,30/06/2026,"18,00 mill. €",manchester-city
-75,Nico O'Reilly,"1,93m",Izquierdo,-,"7,00 mill. €",manchester-city
+75,Nico O'Reilly,"1,93m",Izquierdo,30/06/2028,"7,00 mill. €",manchester-city
 11,Jérémy Doku,"1,73m",Derecho,30/06/2028,"55,00 mill. €",manchester-city
 10,Jack Grealish,"1,80m",Derecho,30/06/2027,"35,00 mill. €",manchester-city
 47,Phil Foden,"1,71m",Izquierdo,30/06/2027,"130,00 mill. €",manchester-city
@@ -659,7 +661,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 29,Mark Gillespie,"1,91m",Derecho,30/06/2025,300 mil €,newcastle-united
 26,John Ruddy,"1,92m",Derecho,30/06/2025,200 mil €,newcastle-united
 4,Sven Botman,"1,95m",Izquierdo,30/06/2027,"45,00 mill. €",newcastle-united
-5,Fabian Schär,"1,86m",Derecho,30/06/2025,"9,00 mill. €",newcastle-united
+5,Fabian Schär,"1,86m",Derecho,30/06/2026,"9,00 mill. €",newcastle-united
 33,Dan Burn,"2,01m",Izquierdo,30/06/2026,"7,00 mill. €",newcastle-united
 6,Jamaal Lascelles,"1,88m",Derecho,30/06/2025,"6,00 mill. €",newcastle-united
 20,Lewis Hall,"1,79m",Izquierdo,-,"30,00 mill. €",newcastle-united
@@ -794,7 +796,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 25,Ben Chilwell,"1,80m",Izquierdo,31/05/2025,"18,00 mill. €",crystal-palace
 12,Daniel Muñoz,"1,81m",Derecho,30/06/2027,"25,00 mill. €",crystal-palace
 17,Nathaniel Clyne,"1,75m",Derecho,30/06/2025,"1,50 mill. €",crystal-palace
-58,Caleb Kporha,-,Derecho,-,"1,00 mill. €",crystal-palace
+58,Caleb Kporha,-,Derecho,30/06/2029,"1,00 mill. €",crystal-palace
 2,Joel Ward,"1,86m",Derecho,30/06/2025,600 mil €,crystal-palace
 20,Adam Wharton,"1,82m",Izquierdo,30/06/2029,"35,00 mill. €",crystal-palace
 28,Cheick Doucouré,"1,80m",Derecho,30/06/2029,"30,00 mill. €",crystal-palace
@@ -826,11 +828,11 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 10,Ryan Christie,"1,78m",Izquierdo,30/06/2027,"12,00 mill. €",afc-bournemouth
 8,Alex Scott,"1,78m",Derecho,30/06/2028,"20,00 mill. €",afc-bournemouth
 4,Lewis Cook,"1,75m",Derecho,30/06/2028,"15,00 mill. €",afc-bournemouth
+24,Antoine Semenyo,"1,85m",Derecho,30/06/2029,"35,00 mill. €",afc-bournemouth
 16,Marcus Tavernier,"1,78m",Izquierdo,30/06/2028,"20,00 mill. €",afc-bournemouth
 19,Justin Kluivert,"1,72m",Ambidiestro,30/06/2028,"35,00 mill. €",afc-bournemouth
 11,Dango Ouattara,"1,77m",Izquierdo,30/06/2028,"25,00 mill. €",afc-bournemouth
 17,Luis Sinisterra,"1,72m",Derecho,-,"17,00 mill. €",afc-bournemouth
-24,Antoine Semenyo,"1,85m",Derecho,30/06/2029,"35,00 mill. €",afc-bournemouth
 7,David Brooks,"1,73m",Izquierdo,30/06/2026,"12,00 mill. €",afc-bournemouth
 9,Evanilson,"1,83m",Ambidiestro,-,"35,00 mill. €",afc-bournemouth
 26,Enes Ünal,"1,87m",Derecho,30/06/2028,"13,00 mill. €",afc-bournemouth
@@ -869,7 +871,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 12,Emmanuel Agbadou,"1,92m",Derecho,30/06/2029,"17,00 mill. €",wolverhampton-wanderest
 34,Nasser Djiga,"1,92m",Derecho,30/06/2030,"10,00 mill. €",wolverhampton-wanderest
 4,Santiago Bueno,"1,90m",Derecho,30/06/2028,"8,00 mill. €",wolverhampton-wanderest
-14,Yerson Mosquera,"1,88m",Derecho,30/06/2026,"8,00 mill. €",wolverhampton-wanderest
+14,Yerson Mosquera,"1,88m",Derecho,30/06/2030,"8,00 mill. €",wolverhampton-wanderest
 33,Bastien Meupiyou,"1,91m",Izquierdo,30/06/2029,"2,50 mill. €",wolverhampton-wanderest
 15,Craig Dawson,"1,88m",Derecho,30/06/2025,"2,00 mill. €",wolverhampton-wanderest
 3,Rayan Aït-Nouri,"1,80m",Izquierdo,30/06/2026,"35,00 mill. €",wolverhampton-wanderest
@@ -962,9 +964,9 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 25,Massimo Luongo,"1,76m",Derecho,30/06/2025,500 mil €,ipswich-town
 9,Julio Enciso,"1,73m",Derecho,30/06/2025,"22,00 mill. €",ipswich-town
 20,Omari Hutchinson,"1,74m",Izquierdo,30/06/2029,"22,00 mill. €",ipswich-town
+23,Sammie Szmodics,"1,68m",Derecho,30/06/2028,"12,00 mill. €",ipswich-town
 29,Jaden Philogene,"1,81m",Derecho,30/06/2029,"18,00 mill. €",ipswich-town
 47,Jack Clarke,"1,81m",Derecho,30/06/2029,"15,00 mill. €",ipswich-town
-23,Sammie Szmodics,"1,68m",Derecho,30/06/2028,"12,00 mill. €",ipswich-town
 33,Nathan Broadhead,"1,78m",Derecho,30/06/2026,"5,00 mill. €",ipswich-town
 21,Chiedozie Ogbene,"1,81m",Derecho,30/06/2028,"8,00 mill. €",ipswich-town
 7,Wes Burns,"1,73m",Derecho,30/06/2026,"2,50 mill. €",ipswich-town
@@ -1216,7 +1218,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 9,Pedro,"1,67m",Ambidiestro,30/06/2025,"1,00 mill. €",lazio-rom
 11,Taty Castellanos,"1,78m",Derecho,30/06/2028,"25,00 mill. €",lazio-rom
 19,Boulaye Dia,"1,80m",Derecho,30/06/2026,"15,00 mill. €",lazio-rom
-1,Lukasz Skorupski,"1,88m",Derecho,30/06/2025,"2,50 mill. €",fc-bologna
+1,Lukasz Skorupski,"1,88m",Derecho,30/06/2026,"2,50 mill. €",fc-bologna
 34,Federico Ravaglia,"1,96m",Derecho,30/06/2028,"1,00 mill. €",fc-bologna
 23,Nicola Bagnolini,"1,94m",Derecho,30/06/2027,200 mil €,fc-bologna
 31,Sam Beukema,"1,88m",Derecho,30/06/2027,"25,00 mill. €",fc-bologna
@@ -1524,7 +1526,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 29,Antoine Makoumbou,"1,87m",Derecho,30/06/2026,"4,00 mill. €",cagliari-calcio
 18,Răzvan Marin,"1,78m",Derecho,30/06/2026,"3,50 mill. €",cagliari-calcio
 8,Michel Adopo,"1,87m",Derecho,30/06/2025,"3,00 mill. €",cagliari-calcio
-14,Alessandro Deiola,"1,90m",Derecho,30/06/2025,"1,60 mill. €",cagliari-calcio
+14,Alessandro Deiola,"1,90m",Derecho,30/06/2029,"1,60 mill. €",cagliari-calcio
 19,Nadir Zortea,"1,87m",Derecho,30/06/2028,"4,50 mill. €",cagliari-calcio
 21,Jakub Jankto,"1,84m",Izquierdo,30/06/2025,"1,00 mill. €",cagliari-calcio
 70,Gianluca Gaetano,"1,83m",Derecho,30/06/2025,"4,00 mill. €",cagliari-calcio
@@ -1608,7 +1610,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 21,Hiroki Ito,"1,88m",Izquierdo,30/06/2028,"30,00 mill. €",fc-bayern-munchen
 15,Eric Dier,"1,91m",Derecho,30/06/2025,"8,00 mill. €",fc-bayern-munchen
 28,Tarek Buchmann,"1,88m",Derecho,30/06/2026,500 mil €,fc-bayern-munchen
-19,Alphonso Davies,"1,85m",Izquierdo,30/06/2030,"50,00 mill. €",fc-bayern-munchen
+19,Alphonso Davies,"1,83m",Izquierdo,30/06/2030,"50,00 mill. €",fc-bayern-munchen
 22,Raphaël Guerreiro,"1,70m",Izquierdo,30/06/2026,"10,00 mill. €",fc-bayern-munchen
 44,Josip Stanisic,"1,87m",Ambidiestro,30/06/2029,"28,00 mill. €",fc-bayern-munchen
 23,Sacha Boey,"1,78m",Derecho,30/06/2028,"18,00 mill. €",fc-bayern-munchen
@@ -1622,7 +1624,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 7,Serge Gnabry,"1,76m",Derecho,30/06/2026,"25,00 mill. €",fc-bayern-munchen
 17,Michael Olise,"1,84m",Izquierdo,30/06/2029,"80,00 mill. €",fc-bayern-munchen
 10,Leroy Sané,"1,83m",Izquierdo,30/06/2025,"38,00 mill. €",fc-bayern-munchen
-25,Thomas Müller,"1,85m",Derecho,30/06/2025,"6,00 mill. €",fc-bayern-munchen
+25,Thomas Müller,"1,85m",Derecho,31/07/2025,"6,00 mill. €",fc-bayern-munchen
 24,Gabriel Vidovic,"1,80m",Derecho,30/06/2026,"3,00 mill. €",fc-bayern-munchen
 9,Harry Kane,"1,88m",Derecho,30/06/2027,"90,00 mill. €",fc-bayern-munchen
 1,Gregor Kobel,"1,96m",Derecho,30/06/2028,"40,00 mill. €",borussia-dortmund
@@ -1712,8 +1714,8 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 4,Konstantinos Koulierakis,"1,88m",Izquierdo,30/06/2029,"20,00 mill. €",vfl-wolfsburg
 3,Sebastiaan Bornauw,"1,91m",Derecho,30/06/2026,"7,00 mill. €",vfl-wolfsburg
 18,Denis Vavro,"1,89m",Derecho,30/06/2025,"7,00 mill. €",vfl-wolfsburg
+33,David Odogu,"1,91m",Derecho,-,700 mil €,vfl-wolfsburg
 22,Mathys Angély,"1,90m",Izquierdo,-,600 mil €,vfl-wolfsburg
-33,David Odogu,"1,91m",Derecho,-,-,vfl-wolfsburg
 21,Joakim Maehle,"1,85m",Derecho,30/06/2027,"14,00 mill. €",vfl-wolfsburg
 13,Rogério,"1,78m",Izquierdo,30/06/2027,"3,50 mill. €",vfl-wolfsburg
 5,Mads Roerslev,"1,84m",Derecho,30/06/2025,"8,00 mill. €",vfl-wolfsburg
@@ -1885,7 +1887,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 9,Lucas Höler,"1,84m",Derecho,-,"3,50 mill. €",sc-freiburg
 27,Robin Zentner,"1,95m",Derecho,30/06/2028,"4,00 mill. €",1-fsv-mainz-05
 33,Daniel Batz,"1,91m",Ambidiestro,30/06/2025,350 mil €,1-fsv-mainz-05
-1,Lasse Rieß,"1,91m",Derecho,30/06/2027,200 mil €,1-fsv-mainz-05
+1,Lasse Rieß,"1,92m",Derecho,30/06/2027,200 mil €,1-fsv-mainz-05
 3,Moritz Jenz,"1,90m",Derecho,30/06/2025,"6,00 mill. €",1-fsv-mainz-05
 25,Andreas Hanche-Olsen,"1,85m",Derecho,30/06/2026,"6,00 mill. €",1-fsv-mainz-05
 5,Maxim Leitsch,"1,89m",Izquierdo,30/06/2026,"2,00 mill. €",1-fsv-mainz-05
@@ -1923,7 +1925,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 14,Senne Lynen,"1,85m",Derecho,-,"9,00 mill. €",sv-werder-bremen
 28,Skelly Alvero,"2,02m",Derecho,30/06/2028,"3,00 mill. €",sv-werder-bremen
 6,Jens Stage,"1,87m",Derecho,-,"12,00 mill. €",sv-werder-bremen
-10,Leonardo Bittencourt,"1,71m",Derecho,-,"2,00 mill. €",sv-werder-bremen
+10,Leonardo Bittencourt,"1,71m",Derecho,30/06/2026,"2,00 mill. €",sv-werder-bremen
 20,Romano Schmid,"1,68m",Derecho,-,"15,00 mill. €",sv-werder-bremen
 35,Leon Opitz,"1,83m",Izquierdo,-,600 mil €,sv-werder-bremen
 39,Patrice Covic,-,Derecho,30/06/2027,-,sv-werder-bremen
@@ -2111,7 +2113,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 80,Arnau Tenas,"1,85m",Derecho,30/06/2026,"4,00 mill. €",fc-paris-saint-germain
 51,Willian Pacho,"1,87m",Izquierdo,30/06/2029,"45,00 mill. €",fc-paris-saint-germain
 5,Marquinhos,"1,83m",Derecho,30/06/2028,"40,00 mill. €",fc-paris-saint-germain
-35,Lucas Beraldo,"1,82m",Izquierdo,30/06/2028,"25,00 mill. €",fc-paris-saint-germain
+35,Lucas Beraldo,"1,86m",Izquierdo,30/06/2028,"25,00 mill. €",fc-paris-saint-germain
 3,Presnel Kimpembe,"1,83m",Izquierdo,30/06/2026,"8,00 mill. €",fc-paris-saint-germain
 45,Naoufel El Hannach,"1,83m",Derecho,30/06/2027,-,fc-paris-saint-germain
 25,Nuno Mendes,"1,83m",Izquierdo,30/06/2029,"55,00 mill. €",fc-paris-saint-germain
@@ -2427,7 +2429,6 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 2,Rasmus Nicolaisen,"1,91m",Izquierdo,30/06/2025,"5,00 mill. €",fc-toulouse
 29,Jaydee Canvot,"1,88m",Derecho,30/06/2029,"2,50 mill. €",fc-toulouse
 6,Ümit Akdağ,"1,92m",Izquierdo,30/06/2025,800 mil €,fc-toulouse
-15,Aron Dønnum,"1,78m",Izquierdo,30/06/2028,"4,00 mill. €",fc-toulouse
 17,Gabriel Suazo,"1,78m",Izquierdo,30/06/2026,"4,00 mill. €",fc-toulouse
 26,Ylies Aradj,"1,79m",Izquierdo,30/06/2026,-,fc-toulouse
 12,Warren Kamanzi,"1,77m",Derecho,30/06/2026,"2,00 mill. €",fc-toulouse
@@ -2437,6 +2438,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 20,Niklas Schmidt,"1,84m",Ambidiestro,30/06/2027,"2,00 mill. €",fc-toulouse
 21,Miha Zajc,"1,78m",Derecho,30/06/2025,"1,80 mill. €",fc-toulouse
 22,Rafik Messali,"1,77m",Derecho,30/06/2026,800 mil €,fc-toulouse
+15,Aron Dønnum,"1,78m",Izquierdo,30/06/2028,"4,00 mill. €",fc-toulouse
 11,Mathis Saka,"1,72m",Derecho,30/06/2029,-,fc-toulouse
 10,Yann Gboho,"1,78m",Derecho,30/06/2026,"8,00 mill. €",fc-toulouse
 7,Zakaria Aboukhlal,"1,79m",Ambidiestro,30/06/2026,"12,00 mill. €",fc-toulouse
@@ -2573,7 +2575,7 @@ dorsal,nombre,Altura,Pie,fin_contrato,valor_mercado,equipo
 28,Farid El Melali,"1,68m",Ambidiestro,30/06/2025,"4,00 mill. €",sco-angers
 18,Jim Allevinah,"1,72m",Derecho,30/06/2027,"1,80 mill. €",sco-angers
 20,Zinedine Ferhat,"1,80m",Derecho,30/06/2025,"1,20 mill. €",sco-angers
-17,Justin-Noël Kalumba,"1,71m",Izquierdo,30/06/2026,600 mil €,sco-angers
+17,Justin Kalumba,"1,71m",Izquierdo,30/06/2026,600 mil €,sco-angers
 19,Estéban Lepaul,"1,81m",Derecho,30/06/2027,"5,00 mill. €",sco-angers
 99,Bamba Dieng,"1,78m",Derecho,30/06/2025,"3,50 mill. €",sco-angers
 7,Ibrahima Niane,"1,87m",Derecho,30/06/2025,"1,50 mill. €",sco-angers
